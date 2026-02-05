@@ -246,7 +246,7 @@ oc rollout restart deployment/label-studio
 After the rollout restart, verify the pod reaches a Ready state.
 
 In production environments, a hardened image or adjusted security context should be
-used instead of granting the ```yaml anyuid``` SCC.
+used instead of granting the ```anyuid``` SCC.
 
 ---
 

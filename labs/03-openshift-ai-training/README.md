@@ -107,14 +107,13 @@ Choose **one** of the following methods.
 
 Expected structure:
 
+```
 dataset/
 
 ├── images/
-
 ├── labels/
-
 └── classes.txt
-
+```
 
 ---
 

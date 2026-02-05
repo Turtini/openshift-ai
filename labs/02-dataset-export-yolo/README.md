@@ -127,14 +127,23 @@ Guidelines:
 Unzip the downloaded archive locally and confirm the following structure:
 
 dataset/
+
 ├── images/
+
 │ ├── image1.jpg
+
 │ ├── image2.jpg
+
 │ └── ...
+
 ├── labels/
+
 │ ├── image1.txt
+
 │ ├── image2.txt
+
 │ └── ...
+
 └── classes.txt
 
 

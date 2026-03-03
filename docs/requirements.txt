@@ -1,0 +1,4 @@
+sphinx>=7
+myst-parser>=2
+sphinx-rtd-theme>=2
+turtini-sphinx-theme @ git+https://github.com/Turtini/turtini-sphinx-theme.git@main
